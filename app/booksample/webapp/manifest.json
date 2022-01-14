@@ -24,7 +24,7 @@
             "id": "ui5template.fiorielements.v4.lrop",
             "version": "1.0.0"
         }
-    },  
+    },
     "sap.ui": {
         "technology": "UI5",
         "icons": {
@@ -101,7 +101,8 @@
                                         "route": "BooksObjectPage"
                                     }
                                 }
-                            }
+                            },
+                            "initialLoad": "Enabled"
                         }
                     }
                 },
